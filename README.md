@@ -4,6 +4,8 @@
 
 ### Tecnologias que eu uso na maioria dos projetos:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloFornazzaCosta&layout=compact)
+
 ![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
